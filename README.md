@@ -15,3 +15,8 @@ but without restricting too much*.
 
 ## Project Status
 Early WIP.
+
+Dev. Requirements:
+Go: 1.13+
+systemd: 240+
+Linux-kernel: 5.0+
