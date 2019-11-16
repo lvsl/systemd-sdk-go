@@ -7,7 +7,7 @@ Golang SDK for [systemd](https://www.freedesktop.org/wiki/Software/systemd/) ser
 ### Why SDK?
 Current available [bindings](https://github.com/coreos/go-systemd) are too low-level and bloated.
 
-*The goal of this project is provide more high-level and lean set of building blocks,
+*The goal of this project is to provide more high-level and lean set of building blocks,
 but without restricting too much*.
 
 
