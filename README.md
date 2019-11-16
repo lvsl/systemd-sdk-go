@@ -17,6 +17,6 @@ but without restricting too much*.
 Early WIP.
 
 Dev. Requirements:
-Go: 1.13+
-systemd: 240+
+Go: 1.13+;
+systemd: 240+;
 Linux-kernel: 5.0+
